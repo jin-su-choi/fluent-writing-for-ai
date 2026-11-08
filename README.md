@@ -35,7 +35,6 @@ The reader's questions determine which information belongs in the document and i
 | Appending feedback as separate "additional notes" | Integrate it into the relevant discussion and update summaries, conclusions, and tables together. |
 | Moving essential conditions to the end or hiding them in collapsible sections | Keep the scope and conditions that determine a claim's meaning beside the claim in the main text. |
 | Packing several conditions and explanations into one bullet | Separate the shared point from its details and use sub-bullets where needed. |
-| Choosing inflated abstractions and strained word combinations | Use familiar, precise terms and concrete verbs for actual actions and results, without changing the strength of the claim. |
 | Treating structural problems as sentence-polishing or table-formatting problems | Fix information selection and explanation order first, then refine wording and format. |
 
 Keep facts, numbers, scope, uncertainty, and supporting evidence intact when condensing or revising the document.

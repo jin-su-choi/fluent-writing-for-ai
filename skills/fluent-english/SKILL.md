@@ -24,9 +24,6 @@ Identify what the reader needs to understand, decide, or do. Select information 
   - State the point affirmatively. Use contrasts such as "not X but Y" only when X is already relevant and the distinction is needed, or when the distinction itself is central.
   - Do not invent an alternative merely to reject it for emphasis.
   - Apply these principles to individual sentences, bullets, paragraphs, and the whole document.
-- Use familiar, precise terms and concrete verbs that describe actual actions and results.
-  - Avoid strained word combinations, inflated abstractions, and decorative metaphors that obscure meaning.
-  - Do not replace clear terminology merely to avoid repetition.
 - When the work includes multiple attempts and revisions, distinguish hypotheses, abandoned options, and currently supported facts before selecting content.
 - Make each sentence understandable using only the reader's established prior knowledge and the text already presented.
   - Introduce necessary premises before relying on them. Do not depend on later explanations or your own memory of the work.
