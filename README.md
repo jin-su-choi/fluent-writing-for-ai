@@ -2,16 +2,12 @@
 
 [English](README.md) | [한국어](README.ko.md)
 
-Writing skills for AI assistants that turn research, analysis, and implementation work into documents people can understand and evaluate.
-
-The central principle is simple: choose and organize information around what the reader needs to understand, decide, or do.
+Writing skills for AI assistants, designed for documents shared with others and for reviewing AI work. They guide the assistant to select the information a reader needs, explain it in a useful order, and retain the evidence and conditions needed to assess the results.
 
 ## Use cases
 
 - **Documents shared with other people:** reports, proposals, design notes, and handovers for readers who did not participate in the work.
 - **Documents for reviewing AI work:** explanations that let you assess an assistant's findings, methods, and decisions without reconstructing the conversation or inspecting every intermediate step.
-
-In both cases, the document should stand on its own, with the context, evidence, and conditions needed to assess its conclusions.
 
 ## Skills
 
@@ -43,7 +39,7 @@ Keep facts, numbers, scope, uncertainty, and supporting evidence intact when con
 
 ### Review without the work history
 
-For a document produced after complex work:
+For a document presenting the final results of complex work:
 
 1. Temporarily remove accounts of the investigation, experiments, implementation history, and rejected alternatives.
 2. Read the draft as someone who did not follow that work. Identify specific gaps that prevent understanding or assessment.
