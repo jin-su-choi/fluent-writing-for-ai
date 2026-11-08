@@ -1,0 +1,4 @@
+interface:
+  display_name: "English Writing for Readers"
+  short_description: "Clear English documents organized for the reader"
+  default_prompt: "Use $fluent-english to draft or revise this English document so readers can follow its key points, evidence, and conditions without prior context."
