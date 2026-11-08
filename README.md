@@ -24,11 +24,21 @@ Both apply to document drafting and editing, including drafts written in chat. T
 
 ## Writing philosophy
 
-- **The reader's purpose determines the content.** Select information that helps the reader understand, assess, or act on the result.
-- **The final findings determine the explanation.** Distinguish current facts from hypotheses and abandoned options. Investigation order and source-file boundaries should not become the outline.
-- **Relationships need a reason.** Use comparisons, contrasts, categories, stages, and divisions of responsibility when they are supported and useful. Do not invent them to make a sentence or document sound more convincing.
-- **Concision retains meaning.** Keep the scope, conditions, uncertainty, and supporting evidence that determine what a claim means.
-- **Revisions belong in the document.** Integrate feedback into the relevant discussion and update affected summaries, conclusions, and tables together.
+The reader's questions determine which information belongs in the document and in what order. Both language versions address these recurring AI writing habits:
+
+| Recurring AI habit | Writing principle |
+|---|---|
+| Organizing a report around the order of investigation and revision | Select the final findings and arrange them in the order the reader needs. |
+| Assuming readers know the writer's background context | Use only the reader's established knowledge and the preceding text; introduce necessary premises first. |
+| Inventing comparisons, contrasts, categories, or roles to sound convincing | Check whether each relationship is supported and useful; explain actual functions and behavior directly. |
+| Using "not X but Y" for unnecessary emphasis | State the point affirmatively and use a contrast only when the distinction matters. |
+| Appending feedback as separate "additional notes" | Integrate it into the relevant discussion and update summaries, conclusions, and tables together. |
+| Moving essential conditions to the end or hiding them in collapsible sections | Keep the scope and conditions that determine a claim's meaning beside the claim in the main text. |
+| Packing several conditions and explanations into one bullet | Separate the shared point from its details and use sub-bullets where needed. |
+| Choosing inflated abstractions and strained word combinations | Use familiar, precise terms and concrete verbs for actual actions and results, without changing the strength of the claim. |
+| Treating structural problems as sentence-polishing or table-formatting problems | Fix information selection and explanation order first, then refine wording and format. |
+
+Keep facts, numbers, scope, uncertainty, and supporting evidence intact when condensing or revising the document.
 
 ## Practical methods
 
